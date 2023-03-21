@@ -1,2 +1,2 @@
 # Java-VRPTW-ALNS-
-Solving the VRPTW problem using the Heuristic algorithms in Java
+Solving the VRPTW problem using the ALNS algorithms in Java
